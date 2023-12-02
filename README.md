@@ -1,3 +1,5 @@
 # Advent of Code 2023
 
-In python :)
+- [ ] Day 1
+- [ ] Day 2
+- [ ] Day 3
